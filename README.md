@@ -1,5 +1,5 @@
 # QrCodeAPI
-- Aplicação com botões para gerar QrCode (documentação API)
+- Aplicação para gerar QrCode (documentação API)
 
 ## Tecnologias utilizadas
 - Visual studio
